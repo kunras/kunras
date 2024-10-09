@@ -29,5 +29,5 @@
     </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunras&show_icons=true&locale=en&layout=compact" alt="kunras" />
+    <img align="center" src="https://github-stats-q93p.vercel.app/api/top-langs/?username=kunras" alt="kunras" />
 </p>
