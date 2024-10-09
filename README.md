@@ -7,6 +7,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </p>
 <h3 align="left">Frontend : </h3>
     <p align="left">
@@ -29,5 +30,5 @@
     </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunras&show_icons=true&locale=en&layout=compact" alt="kunras" />
+    <img align="center" src="https://github-stats-q93p.vercel.app/api/top-langs/?username=kunras" alt="kunras" />
 </p>
